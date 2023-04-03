@@ -1,4 +1,5 @@
 ## Getting Started
+This middleware was created for the GolFood application, designed to handle requests and perform actions. BUT CANCELED due to time constraints.
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
